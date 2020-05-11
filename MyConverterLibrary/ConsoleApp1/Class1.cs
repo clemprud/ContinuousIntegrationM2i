@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public int GetInt(string nb)
         {
-            return int.Parse(nb) + 1;
+            return int.Parse(nb);
         }
     }
 }
