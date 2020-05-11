@@ -3,3 +3,7 @@
 ################################################################################
 
 /MyConverterLibrary/MyConverterLibrary/obj
+/MyConverterLibrary/MyConverterLibrary/bin/Debug/netstandard2.0
+/MyConverterLibrary/.vs/MyConverterLibrary/v16/TestStore/0
+/MyConverterLibrary/.vs/MyConverterLibrary/v16/Server/sqlite3
+/.vs
