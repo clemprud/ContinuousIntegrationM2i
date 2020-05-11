@@ -2,6 +2,5 @@
 # Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
 ################################################################################
 
-/MyConverterLibrary/.vs/MyConverterLibrary/v16/TestStore/0
 /MyConverterLibrary/.vs/MyConverterLibrary/v16/Server/sqlite3
-/.vs
+
