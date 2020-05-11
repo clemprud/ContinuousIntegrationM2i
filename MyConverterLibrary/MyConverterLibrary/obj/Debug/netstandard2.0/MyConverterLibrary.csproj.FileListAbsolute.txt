@@ -1,0 +1,8 @@
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\bin\Debug\netstandard2.0\MyConverterLibrary.deps.json
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\bin\Debug\netstandard2.0\MyConverterLibrary.dll
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\bin\Debug\netstandard2.0\MyConverterLibrary.pdb
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\obj\Debug\netstandard2.0\MyConverterLibrary.csprojAssemblyReference.cache
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\obj\Debug\netstandard2.0\MyConverterLibrary.AssemblyInfoInputs.cache
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\obj\Debug\netstandard2.0\MyConverterLibrary.AssemblyInfo.cs
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\obj\Debug\netstandard2.0\MyConverterLibrary.dll
+C:\Users\Clemprud\source\repos\ContinuousIntegrationM2i\MyConverterLibrary\MyConverterLibrary\obj\Debug\netstandard2.0\MyConverterLibrary.pdb
